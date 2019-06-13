@@ -13,10 +13,10 @@ If the client selects a product on the list and a quantity that is lower than th
 customer's order, update the database minus the inventory of the product purchased and show the cost of the purchase.
 The client will see two phrases "Product Purchased" and "Total Purchase Price: $ ".
 
-![mySQL file](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/Screenshot%20(4).png)
+![customer app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/Screenshot%20(4).png)
 
 
-The second app I created was the Bamazon Manager version. I used the same SQL database and created the bamazonManager.js file
+The second app I created was the Bamazon Manager version. I used the same SQL database and created the **bamazonManager.js** file
 The client can select View Products for Sale, View Low Inventory, Add to Inventory, Add New Product.
 The first option, View Products for Sale, shows the most recent product database. 
 The second option, View Low Inventory, shows all products with inventory under 5 items.
@@ -25,3 +25,4 @@ shown upon completion. The last option is to Add new products, The client can ty
 price, stock quantity and department and the info will ba added to the app. 
 I had already completed most of the project before learning more about being able to create a table in Node.
 If I have the opportunity I would like to put all the info into a table so it is easier for the client to navigate.
+![manager app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/manager.png)
