@@ -1,7 +1,7 @@
 # Bamazon Node.js and MySQL Project
 
 I created the Bamazon Customer app with the SQL database with the products, inventory, department, price and quantity.
-![mySQL file](markdown/Screenshot (3).png)
+![mySQL file](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/Screenshot%20(3).png)
 Format: ![Alt Text](url)
 
 
