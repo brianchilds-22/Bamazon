@@ -17,7 +17,7 @@ If the client selects a product on the list and a quantity that is lower than th
 customer's order, update the database minus the inventory of the product purchased and show the cost of the purchase.
 The client will see two phrases "Product Purchased" and "Total Purchase Price: $ ".
 
-![customer app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/Screenshot%20(4).png)
+![customer app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/customerfunctions.png)
 
 
 The second app I created was the Bamazon Manager version. I used the same SQL database and created the **bamazonManager.js** file
