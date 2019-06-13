@@ -6,7 +6,7 @@ I created the Bamazon Customer app with the SQL database with the products, inve
 ![mySQL file](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/Screenshot%20(3).png)
 
 
-I then created the bamazonCustomer.js file, the client can identify the product and quantity that they would like to buy.
+I then created the **bamazonCustomer.js** file, the client can identify the product and quantity that they would like to buy.
 If the client selects a quantity that is higher than the selected products inventory the phrase "Insufficient Quantity"
 is shown. If the client types a product that is not on the list the phrase "Item not available" is shown.
 If the client selects a product on the list and a quantity that is lower than the inventory then the app will fulfill the 
