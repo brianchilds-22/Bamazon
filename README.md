@@ -31,3 +31,6 @@ I had already completed most of the project before learning more about being abl
 If I have the opportunity I would like to put all the info into a table so it is easier for the client to navigate.
 
 ![manager app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/manager.png)
+
+
+[video of app](https://drive.google.com/file/d/1N51GsHrqv5IYkfM43vdga9PrQDZhT7qM/view)
