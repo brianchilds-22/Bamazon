@@ -34,4 +34,4 @@ If I have the opportunity I would like to put all the info into a table so it is
 
 Please take a look at the app in action!
 
-[video of app](https://drive.google.com/file/d/1N51GsHrqv5IYkfM43vdga9PrQDZhT7qM/view)
+[Bamazon App](https://drive.google.com/file/d/1N51GsHrqv5IYkfM43vdga9PrQDZhT7qM/view)
