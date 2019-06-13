@@ -1,6 +1,10 @@
 # Bamazon Node.js and MySQL Project
 
 I created the Bamazon Customer app with the SQL database with the products, inventory, department, price and quantity.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 I then created the bamazonCustomer.js file, the client can identify the product and quantity that they would like to buy.
 If the client selects a quantity that is higher than the selected products inventory the phrase "Insufficient Quantity"
 is shown. If the client types a product that is not on the list the phrase "Item not available" is shown.
