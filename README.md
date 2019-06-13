@@ -25,4 +25,5 @@ shown upon completion. The last option is to Add new products, The client can ty
 price, stock quantity and department and the info will ba added to the app. 
 I had already completed most of the project before learning more about being able to create a table in Node.
 If I have the opportunity I would like to put all the info into a table so it is easier for the client to navigate.
+
 ![manager app](https://github.com/brianchilds-22/Bamazon/blob/master/markdown/manager.png)
